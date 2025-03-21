@@ -1,5 +1,5 @@
 {
-  "name": "canvafy",
+  "name": "bun-canvafy",
   "version": "1.0.0",
   "description": "Make configurable canvas easily with Canvafy (Bun)",
   "main": "index.js",
@@ -94,6 +94,7 @@
   },
   "dependencies": {
     "@napi-rs/canvas": "^0.1.68",
+    "bun-canvafy": "file:",
     "canvafy": "file:",
     "dayjs": "^1.11.13",
     "fs": "^0.0.1-security",
