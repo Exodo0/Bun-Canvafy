@@ -85,10 +85,6 @@
     "url": "https://github.com/Exodo0/"
   },
   "license": "GPL-3.0",
-  "funding": {
-    "type": "buymeacoffee",
-    "url": "https://www.buymeacoffee.com/Exodo0"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Exodo0/Bun-canvafy.git"
