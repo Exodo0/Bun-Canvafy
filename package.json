@@ -1,6 +1,6 @@
 {
   "name": "bun-canvafy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make configurable canvas easily with Canvafy (Bun)",
   "main": "index.js",
   "types": "./typings/index.d.ts",
