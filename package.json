@@ -96,11 +96,9 @@
   "bugs": {
     "url": "https://github.com/Exodo0/Bun-canvafy"
   },
-  "homepage": "https://bit.ly/canvafy-docs",
   "dependencies": {
     "@napi-rs/canvas": "^0.1.68",
     "canvafy": "file:",
-    "canvas": "^3.1.0",
     "dayjs": "^1.11.13",
     "fs": "^0.0.1-security",
     "node-fetch": "^3.3.2",
